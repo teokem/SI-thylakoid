@@ -2,7 +2,7 @@
 
 # Electron diffusion model for micropatterned chips for photocurrent generation
 
-This repository contains a [Jupyter](http://jupyter.org) Notebook for reproducing the theoretical calculations of the scientific paper _Micropatterned Carbon-on-Quartz Electrode Chips for Photocurrent Generation from Thylakoid Membranes_, [DOI: ](http://dx.doi.org/10.1021/acsaem.8b00500).
+This repository contains a [Jupyter](http://jupyter.org) Notebook for reproducing the theoretical calculations of the scientific paper _Micropatterned Carbon-on-Quartz Electrode Chips for Photocurrent Generation from Thylakoid Membranes_, [DOI: 10.1021/acsaem.8b00500](http://dx.doi.org/10.1021/acsaem.8b00500).
 
 ### Layout
 
